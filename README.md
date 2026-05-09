@@ -1,7 +1,6 @@
 # Currency Converter In React
 
-![Currency Changer in React](ss.jpg)
-CurrencyExchangerInReact is a React application that allows users to convert currencies. This project is built using Vite for fast and efficient development.
+Currency Converter is a React application that allows users to convert currencies. This project is built using Vite for fast and efficient development.
 
 ## Features
 
@@ -25,7 +24,7 @@ CurrencyExchangerInReact is a React application that allows users to convert cur
 
 To get started with CurrencyExchangerInReact, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/BilalHaider20/CurrencyConverter.git`
+1. Clone the repository: `git clone https://github.com/the-shahzaib-asif/Currency_Converter`
 2. Navigate to the project directory: `cd CurrencyConverter`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
@@ -37,8 +36,4 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/BilalHaider20/CurrencyConverter/blob/main/LICENSE).
-
-## Contact
-
-For any inquiries or questions, feel free to reach out to the project owner, Abdulmehad, at haiderbilal306@gmail.com.
+This project is licensed under the [MIT License](https://github.com/the-shahzaib-asif/Currency_Converter/blob/main/LICENSE).
